@@ -5,6 +5,8 @@
 # project
 /node_modules/
 /config/
+/node_modules/
+
 <<<<<<< HEAD
 /files/
 =======
